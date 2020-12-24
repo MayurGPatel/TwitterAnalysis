@@ -4,4 +4,4 @@ This is a project that can calculate a "happiness score" for each region of the 
 
 FOR USE: 
 run main.py and enter a file for your tweets, and a file for your keywords. 
-sentiment_analysis.py is where all of the happiness scores are computed
+sentiment_analysis.py is where all of the happiness scores are computed.
